@@ -1,0 +1,34 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Проект8.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  my_lexems1.cpp
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(131): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(429): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(458): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(637): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(718): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(721): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(724): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(727): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(762): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(788): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(824): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(830): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(702): warning C4715: getPrior: значение возвращается не при всех путях выполнения
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(806): warning C4715: getCountX: значение возвращается не при всех путях выполнения
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\graphiccalculator\проект8\my_lexems1.cpp(252): warning C4715: corrStr: значение возвращается не при всех путях выполнения
+  MyForm1.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  MyForm1.obj : юсэрЁєцхэ ьюфєы№ MSIL; фы  MSIL яюёыхфютрЄхы№эр  ъюьяюэютър юЄъы■ўхэр; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+  Проект8.vcxproj -> C:\Users\maksi\OneDrive\Документы\Visual Studio 2012\Projects\Шишкин\GraphicCalculator\Debug\GraphicCalculator.exe
