@@ -60,7 +60,7 @@ bool testNmbInBr(char* s) {
 
 int testStr(char* s, char* w, int* i, int* f) {
 	int t = -1;
-	//t=testFind5(s,w,i,f);
+	t=testFind5(s,w,i,f);
 	if (t == -1)
 		t = testFind1(s, i, f);
 	if (t == -1)
@@ -183,11 +183,11 @@ int testFind5(char* s, char* w, int* i, int* f) {
 	strcpy(s1, s);
 	while (*s) {
 
-		if (*s != *w || strlen(w) == 0) {
+		/*if (*s != *w || strlen(w) == 0) {
 			if (*s == '(' && testInBrcks(s1)) {
 				*i = 1; *f = 1; return t;
 			}
-		}
+		}*/
 		if (*s == '|' && testM(s + 1)) {
 			*i = 6; *f = 4; return t;
 		}
